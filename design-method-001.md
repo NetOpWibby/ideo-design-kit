@@ -21,4 +21,4 @@ Pens, Post-its, a large sheet of paper or whiteboard
 Design team, partners, community members
 
 ### Process Phase
-![](images/process-phase-ideation.png)
+![](/images/process-phase-ideation.png)
