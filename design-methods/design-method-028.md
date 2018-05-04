@@ -23,4 +23,4 @@ Print out the Brainstorm Rules
 Design team, anyone else participating in the Brainstorm
 
 ### Process Phase
-![](images/process-phase-ideation.png)
+![](https://git.inc.sh/DSGN/ideo-design-kit/raw/branch/master/images/process-phase-ideation.png)
